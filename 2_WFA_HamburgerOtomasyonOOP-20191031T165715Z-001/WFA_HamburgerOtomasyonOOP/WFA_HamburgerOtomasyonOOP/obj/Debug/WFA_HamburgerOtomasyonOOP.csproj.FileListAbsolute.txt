@@ -1,0 +1,25 @@
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\3.OOP\30.10\WFA_HamburgerOtomasyonOOP\WFA_HamburgerOtomasyonOOP\bin\Debug\WFA_HamburgerOtomasyonOOP.exe.config
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\3.OOP\30.10\WFA_HamburgerOtomasyonOOP\WFA_HamburgerOtomasyonOOP\bin\Debug\WFA_HamburgerOtomasyonOOP.exe
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\3.OOP\30.10\WFA_HamburgerOtomasyonOOP\WFA_HamburgerOtomasyonOOP\bin\Debug\WFA_HamburgerOtomasyonOOP.pdb
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\3.OOP\30.10\WFA_HamburgerOtomasyonOOP\WFA_HamburgerOtomasyonOOP\obj\Debug\WFA_HamburgerOtomasyonOOP.csprojAssemblyReference.cache
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\3.OOP\30.10\WFA_HamburgerOtomasyonOOP\WFA_HamburgerOtomasyonOOP\obj\Debug\WFA_HamburgerOtomasyonOOP.Properties.Resources.resources
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\3.OOP\30.10\WFA_HamburgerOtomasyonOOP\WFA_HamburgerOtomasyonOOP\obj\Debug\WFA_HamburgerOtomasyonOOP.csproj.GenerateResource.cache
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\3.OOP\30.10\WFA_HamburgerOtomasyonOOP\WFA_HamburgerOtomasyonOOP\obj\Debug\WFA_HamburgerOtomasyonOOP.csproj.CoreCompileInputs.cache
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\3.OOP\30.10\WFA_HamburgerOtomasyonOOP\WFA_HamburgerOtomasyonOOP\obj\Debug\WFA_HamburgerOtomasyonOOP.exe
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\3.OOP\30.10\WFA_HamburgerOtomasyonOOP\WFA_HamburgerOtomasyonOOP\obj\Debug\WFA_HamburgerOtomasyonOOP.pdb
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\3.OOP\30.10\WFA_HamburgerOtomasyonOOP\WFA_HamburgerOtomasyonOOP\obj\Debug\WFA_HamburgerOtomasyonOOP.HamburgerOtomasyon.resources
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\3.OOP\30.10\WFA_HamburgerOtomasyonOOP\WFA_HamburgerOtomasyonOOP\obj\Debug\WFA_HamburgerOtomasyonOOP.MenuEkle.resources
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\3.OOP\30.10\WFA_HamburgerOtomasyonOOP\WFA_HamburgerOtomasyonOOP\obj\Debug\WFA_HamburgerOtomasyonOOP.SiparisVer.resources
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\3.OOP\30.10\WFA_HamburgerOtomasyonOOP\WFA_HamburgerOtomasyonOOP\obj\Debug\WFA_HamburgerOtomasyonOOP.Siparisler.resources
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\31.10.2019\WFA_HamburgerOtomasyonOOP-20191031T165715Z-001\WFA_HamburgerOtomasyonOOP\WFA_HamburgerOtomasyonOOP\bin\Debug\WFA_HamburgerOtomasyonOOP.exe.config
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\31.10.2019\WFA_HamburgerOtomasyonOOP-20191031T165715Z-001\WFA_HamburgerOtomasyonOOP\WFA_HamburgerOtomasyonOOP\bin\Debug\WFA_HamburgerOtomasyonOOP.exe
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\31.10.2019\WFA_HamburgerOtomasyonOOP-20191031T165715Z-001\WFA_HamburgerOtomasyonOOP\WFA_HamburgerOtomasyonOOP\bin\Debug\WFA_HamburgerOtomasyonOOP.pdb
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\31.10.2019\WFA_HamburgerOtomasyonOOP-20191031T165715Z-001\WFA_HamburgerOtomasyonOOP\WFA_HamburgerOtomasyonOOP\obj\Debug\WFA_HamburgerOtomasyonOOP.csprojAssemblyReference.cache
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\31.10.2019\WFA_HamburgerOtomasyonOOP-20191031T165715Z-001\WFA_HamburgerOtomasyonOOP\WFA_HamburgerOtomasyonOOP\obj\Debug\WFA_HamburgerOtomasyonOOP.Siparisler.resources
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\31.10.2019\WFA_HamburgerOtomasyonOOP-20191031T165715Z-001\WFA_HamburgerOtomasyonOOP\WFA_HamburgerOtomasyonOOP\obj\Debug\WFA_HamburgerOtomasyonOOP.SiparisVer.resources
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\31.10.2019\WFA_HamburgerOtomasyonOOP-20191031T165715Z-001\WFA_HamburgerOtomasyonOOP\WFA_HamburgerOtomasyonOOP\obj\Debug\WFA_HamburgerOtomasyonOOP.HamburgerOtomasyon.resources
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\31.10.2019\WFA_HamburgerOtomasyonOOP-20191031T165715Z-001\WFA_HamburgerOtomasyonOOP\WFA_HamburgerOtomasyonOOP\obj\Debug\WFA_HamburgerOtomasyonOOP.MenuEkle.resources
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\31.10.2019\WFA_HamburgerOtomasyonOOP-20191031T165715Z-001\WFA_HamburgerOtomasyonOOP\WFA_HamburgerOtomasyonOOP\obj\Debug\WFA_HamburgerOtomasyonOOP.Properties.Resources.resources
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\31.10.2019\WFA_HamburgerOtomasyonOOP-20191031T165715Z-001\WFA_HamburgerOtomasyonOOP\WFA_HamburgerOtomasyonOOP\obj\Debug\WFA_HamburgerOtomasyonOOP.csproj.GenerateResource.cache
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\31.10.2019\WFA_HamburgerOtomasyonOOP-20191031T165715Z-001\WFA_HamburgerOtomasyonOOP\WFA_HamburgerOtomasyonOOP\obj\Debug\WFA_HamburgerOtomasyonOOP.exe
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\31.10.2019\WFA_HamburgerOtomasyonOOP-20191031T165715Z-001\WFA_HamburgerOtomasyonOOP\WFA_HamburgerOtomasyonOOP\obj\Debug\WFA_HamburgerOtomasyonOOP.pdb
